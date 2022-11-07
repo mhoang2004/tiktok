@@ -1,0 +1,8 @@
+//bam vao more btn chua hien len dc
+//bam vao logo ve trang chu
+//icon inbox hover dang loi
+//useEffect là gì
+//bam space trong o search
+//click vao icon tren header khong duoc
+    
+API là làm cho 2 chương trình có thể giao tiếp đc với nhau
